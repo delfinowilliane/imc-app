@@ -12,7 +12,7 @@ export default function App(){
     const imc = peso / (alt * alt);
 
     if (imc < 18.6) {
-      setMensagem("Você está no peso! Seu IMC: " + imc.toFixed (2))
+      setMensagem("Você está abaixo do peso! Seu IMC: " + imc.toFixed (2))
       
       } else if (imc>= 18.6 && imc<24.9) {
         setMensagem("Você está no seu peso ideal! Seu IMC: " + imc.toFixed (2))
