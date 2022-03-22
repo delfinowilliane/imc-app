@@ -27,5 +27,5 @@
 
 O projeto ainda está em desenvolvimento, as próximas atualizações estão descritas nas seguintes tarefas:
 
-- [ ] Renderizar com React
-- [ ] Executar o Javascript em Node.js
+- [ ] Incluir mais escalas de medidas
+- [ ] Trazer mais funcionalidade e responsividade
